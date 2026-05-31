@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 .env
 backend/venv/
+backend/last_frame.jpg
+backend/report.pdf
+backend/history.db
